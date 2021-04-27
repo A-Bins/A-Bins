@@ -1,18 +1,25 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Bins&count_private=true&theme=radical&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats-56wilbndq.vercel.app/api/top-langs/?username=A-Bins&exclude_repo=Mine,Agora,Bhat,BluePrint,DeadBody&count_private=true&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Ruins!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A-Bins&repo=Ruins)](https://github.com/A-Bins/Ruins)
 
+```kt
+fun main(args: Array<String>){
+    println("Hello World!!!")
+}
+```
+
+TODO
+- [o] Ruins Total System.
+- [o] Ruins Farming System.
+- [o] Ruins getItem for Right Clcik
 
 
 ## Spotify
 
 <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 
+
+[![Top Langs](https://github-readme-stats-56wilbndq.vercel.app/api/top-langs/?username=A-Bins&exclude_repo=Mine,Agora,Bhat,BluePrint,DeadBody&count_private=true&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
