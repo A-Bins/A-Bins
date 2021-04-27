@@ -8,10 +8,10 @@ fun main(args: Array<String>){
 }
 ```
 
-TODO
-- [o] Ruins Total System.
-- [o] Ruins Farming System.
-- [o] Ruins getItem for Right Clcik
+### TODO
+- [ o ] Ruins Total System.
+- [ o ] Ruins Farming System.
+- [ o ] Ruins getItem for Right Clcik
 
 
 ## Spotify
