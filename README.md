@@ -9,9 +9,9 @@ fun main(args: Array<String>){
 ```
 
 ### TODO
-- [ ] Ruins Total System.
-- [ ] Ruins Farming System.
-- [ ] Ruins getItem for Right Clcik
+- [x] Ruins Total System.
+- [x] Ruins Farming System.
+- [x] Ruins getItem for Right Clcik
 
 
 ## Spotify
