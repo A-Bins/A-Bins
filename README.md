@@ -1,6 +1,4 @@
 
-## Ruins!
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A-Bins&repo=Ruins)](https://github.com/A-Bins/Ruins)
 
 ```kt
 fun main(args: Array<String>){
