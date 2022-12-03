@@ -1,23 +1,42 @@
-[![Top Langs](https://github-readme-stats-56wilbndq.vercel.app/api/top-langs/?username=A-Bins&exclude_repo=Mine,Agora,Bhat,BluePrint,DeadBody&count_private=true&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### Programming
+ - Skript ( Minecraft ) ( 20-5 ~ 21-01 )
+ - Java with Minecraft ( 20-11 ~ Now )
+ - Kotlin with Minecraft ( 21-05 ~ Now )
+##
+### Other
+ - Minecraft MagicSpells ( 20-01 ~ 20-06 )
+##
+### Community
+ - My smithy discord
+   - https://discord.gg/tpET7CFS7y
+ - The OutPost discord
+   - https://discord.gg/r9pMV9kHAy
+ - Patreon ( Not Donate ) 
+   - https://www.patreon.com/smithyofabins
+
+##
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-bins&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats-56wilbndq.vercel.app/api/top-langs/?username=A-Bins&exclude_repo=Mine,Agora,Bhat,BluePrint,DeadBody&count_private=true&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## 히히
-<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-
-
-
-## 가끔 사용해요!
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-
-## 사용해볼 생각이 있어요
-<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/><img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
 
+##
 
-## 이건 사용하지 않아요 ㅠ 생각보다 별로였습니다..
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+Hi! My name is Bins, and I am the creator of the Minecraft server for players and I will make the game using Unreal Engine!
+
+I started learning Java in late 2020 and, while working on it, I discovered a passion that I never knew I had, it was programming!
+
+When I didn't learn programming, I didn't know what I could do well or what I loved doing.
+But programming has now become my passion!
 
 
+My planning server is The Outpost, which is inspired by "The Hunter: Call of the Wild"
+I will keep my passion
 
+
+Further notices :
+I am using Kotlin for programming language ( Minecraft )
+I hope to learn more languages in the future, which are Rust, C++ and Golang
