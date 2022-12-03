@@ -1,6 +1,6 @@
 ### Programming
  - Skript ( Minecraft ) `20-5 ~ 21-01`
- - Java with Minecraft `20-11 ~
+ - Java with Minecraft `20-11 ~`
  - Kotlin with Minecraft `21-05 ~` ( MY MOST PROGRAMMING LANGUAGE )
  - React `22-05 ~`
  - Svelte `22-11 ~`
