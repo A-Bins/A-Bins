@@ -11,7 +11,7 @@
 ### Other
  - Minecraft MagicSpells `20-01 ~ 20-06`
  - Blender `22-08 ~`
- - UnrealEngine `22-08`
+ - UnrealEngine `22-08 ~`
 ##
 ### Community
  - My smithy discord
