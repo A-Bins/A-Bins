@@ -1,7 +1,11 @@
 ### Programming
  - Skript ( Minecraft ) ( 20-5 ~ 21-01 )
  - Java with Minecraft ( 20-11 ~ Now )
- - Kotlin with Minecraft ( 21-05 ~ Now )
+ - Kotlin with Minecraft ( 21-05 ~ Now ) ( MY MOST PROGRAMMING LANGUAGE )
+ - React ( 22-05 ~ Now )
+ - Svelte ( 22-11 ~ Now )
+ - TypeScript ( 22-03 ~ Now )
+ - Rust ( 22-09 ~ Now ) ( little bit )
 ##
 ### Other
  - Minecraft MagicSpells ( 20-01 ~ 20-06 )
