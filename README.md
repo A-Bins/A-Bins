@@ -6,9 +6,12 @@
  - Svelte `22-11 ~`
  - TypeScript `22-03 ~`
  - Rust `22-09 ~` ( little bit )
+ - C++ `22-11 ~`
 ##
 ### Other
  - Minecraft MagicSpells `20-01 ~ 20-06`
+ - Blender `22-08 ~`
+ - UnrealEngine `22-08`
 ##
 ### Community
  - My smithy discord
