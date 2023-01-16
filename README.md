@@ -43,6 +43,12 @@ But programming has now become my passion!
 My planning server is The Outpost, which is inspired by "The Hunter: Call of the Wild"
 I will keep my passion
 
+If you want to know process of develop my servers,
+come in! : 
+My smithy discord https://discord.gg/tpET7CFS7y
+The OutPost discord https://discord.gg/r9pMV9kHAy
+
+My smithy is discord server that show all of my projects
 
 Further notices :
 I am using Kotlin for programming language ( Minecraft )
