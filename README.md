@@ -1,17 +1,8 @@
-### Programming
- - Skript ( Minecraft ) `20-5 ~ 21-01`
- - Java with Minecraft `20-11 ~`
- - Kotlin with Minecraft `21-05 ~` ( MY MOST PROGRAMMING LANGUAGE )
- - React `22-05 ~`
- - Svelte `22-11 ~`
- - TypeScript `22-03 ~`
- - Rust `22-09 ~` ( little bit )
- - C++ `22-11 ~`
-##
-### Other
- - Minecraft MagicSpells `20-01 ~ 20-06`
- - Blender `22-08 ~`
- - UnrealEngine `22-08 ~`
+hello. i can speak fluently kotlin
+
+but a little bit of kr, eng too.
+
+i guess i speak Kotlin better than kr, eng lol
 ##
 ### Community
  - My smithy discord
