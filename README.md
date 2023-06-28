@@ -23,15 +23,16 @@ i guess i speak Kotlin better than kr, eng lol
 
 ##
 
-Hi! My name is Bins, and I am the creator of the Minecraft server for players and I will make the game using Unreal Engine!
+Hi! My name is Bins, and I am the creator of the Minecraft server for players and I will make the game using Unreal Engine near future!
 
 I started learning Java in late 2020 and, while working on it, I discovered a passion that I never knew I had, it was programming!
 
-When I didn't learn programming, I didn't know what I could do well or what I loved doing.
+When I had not learned programming, I didn't know what I could do well or what I loved doing.
 But programming has now become my passion!
 
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
-My planning server is The Outpost, which is inspired by "The Hunter: Call of the Wild"
+A server I have made is The Outpost inspired by "The Hunter: Call of the Wild"
 I will keep my passion
 
 If you want to know process of develop my servers,
