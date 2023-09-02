@@ -1,4 +1,4 @@
-hello. i can speak fluently kotlin
+hello. i can speak kotlin fluently
 
 but a little bit of kr, eng too.
 
